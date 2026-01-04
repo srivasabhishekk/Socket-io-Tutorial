@@ -9,6 +9,7 @@
   "author": "Abhishek Srivastava",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
   }
 }
